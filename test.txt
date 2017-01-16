@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ksjdlaksjdlakjdlakdj:
+=======
+add branch then add file test.txt
+add new line 
+>>>>>>> feature1
